@@ -32,7 +32,7 @@ const Banner = () => {
                         <A
                             target='_blank'
                             rel='noreferrer'
-                            href='https://github.com/Amir98375/portfolio-amir/blob/master/public/resume/Mohd%20Amir%20(3).pdf?raw=true'
+                            href='https://drive.google.com/drive/folders/10m8jeY1ccutIXlbv5LmYV7Qm38eHmtLC?usp=sharing'
                         >
                             Resume
                         </A>

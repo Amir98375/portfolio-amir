@@ -42,6 +42,7 @@ const Projects = () => {
                 <FaCss3 />,
                 <FaJs />,
                 <FaNodeJs />,
+                <SiHeroku/>,
                
            
             ],
@@ -61,7 +62,7 @@ const Projects = () => {
                 // <SiMongodb />,
                 // <SiExpress />,
                 // <AiFillGithub />,
-               <FaNodeJs />,
+            //    <FaNodeJs />,
                 <FaHtml5 />,
                 <FaCss3 />,
                 <FaJs />,
@@ -79,7 +80,7 @@ const Projects = () => {
                 // <FaNodeJs />,
                 // <SiMongodb />,
                 <FaJs />,
-               <SiHeroku />,
+            //    <SiHeroku />,
                <FaHtml5 />,
         <FaCss3 />,
             ],

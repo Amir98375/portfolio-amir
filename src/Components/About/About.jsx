@@ -40,7 +40,7 @@ const About = () => {
         <Container className='about'>
             <AboutDiv>
                 <Column>
-                    <Img src='https://raw.githubusercontent.com/Amir98375/amir-portfolio/master/images/IMG_1454%20(1).JPG' alt='my image' />
+                    <Img src='https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/images/amirf.jpg' alt='my image' />
                 </Column>
                 <Column>.3
                     <H1>About Me</H1>

@@ -26,7 +26,7 @@ const Projects = () => {
             project_desc:
                 'kohls cash is an American based store which deals in the sale and purchase of clothes shoes etc.',
             deploy_link: '',
-            repo_link: 'https://github.com/mangeshniras/meesho_fw_13.git',
+            repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
             tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },
         {
@@ -70,7 +70,7 @@ const Projects = () => {
         {
             id: 4,
             project_name: 'News Search bar',
-            image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/mc%20donald.png?raw=true',
+            image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/news.JPG',
           project_desc:
         'A news app here you can search news this page build by using html css & advace js',
         deploy_link: 'https://sad-mahavira-021b7b.netlify.app/',

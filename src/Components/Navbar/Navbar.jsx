@@ -83,7 +83,7 @@ function Navbar({ themeToggler }) {
         <NavBarDiv>
             <Logo onClick={() => scroll.scrollToTop()}>
                 <span class='grey-color'> &lt;</span>
-                <span class='logo-name'>Ashwini Nagargoje</span>
+                <span class='logo-name'>Mohd Amir</span>
                 <span class='grey-color'>/&gt;</span>
             </Logo>
 

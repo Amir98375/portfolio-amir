@@ -16,12 +16,12 @@ import { Container, H1 } from '../../SharedStyles/SharedStyles';
 const socialMediaLinks = [
     {
         id: 0,
-        link: 'https://www.linkedin.com/in/ashwini-nagargoje-259b5122b/',
+        link: 'https://www.linkedin.com/in/mohd-amir-bb9082113/',
         icon: <FaLinkedin />,
     },
     {
         id: 1,
-        link: 'https://github.com/Ashwininagargoje703',
+        link: 'https://github.com/Amir98375',
         icon: <FaGithub />,
     },
     {
@@ -40,9 +40,9 @@ const About = () => {
         <Container className='about'>
             <AboutDiv>
                 <Column>
-                    <Img src='https://github.com/Ashwininagargoje703/Images/blob/main/my-avatar.png.jpeg?raw=true' alt='my image' />
+                    <Img src='https://raw.githubusercontent.com/Amir98375/amir-portfolio/master/images/IMG_1454%20(1).JPG' alt='my image' />
                 </Column>
-                <Column>
+                <Column>.3
                     <H1>About Me</H1>
                     <AboutInfo>
                         <AboutInfoP>

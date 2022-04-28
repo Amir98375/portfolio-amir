@@ -9,7 +9,7 @@ const Banner = () => {
         <Container className='home'>
             <HeaderContent>
                 <div>
-                    <H1>Hi 👋 I'm Ashwini Nagargoje </H1>
+                    <H1>Hi 👋 I'm Mohd Amir </H1>
                     <TypeWriterH1>
                         <Typewriter
                             options={{
@@ -32,7 +32,7 @@ const Banner = () => {
                         <A
                             target='_blank'
                             rel='noreferrer'
-                            href='https://drive.google.com/file/d/1z1vGOii-KUC9BCFu-sSWAJzJSIGH6yVq/view?usp=sharing'
+                            href='https://drive.google.com/file/d/1uyYH-SNZNqCDaMd3-ncEmPfLFXsNbXj4/view?usp=sharing'
                         >
                             Resume
                         </A>

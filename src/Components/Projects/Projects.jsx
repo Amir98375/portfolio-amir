@@ -21,12 +21,12 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            project_name: 'Meshoo Clone',
+            project_name: 'Kohls cash clone',
             image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/meeshoo.png.png?raw=true',
             project_desc:
-                'Meesho is a online Shopping & Reselling site in India - Buy & Sell best quality Fashion, Electronics, Home & Kitchen products at lowest prices.',
-            deploy_link: 'https://masai-meesho-clone-unit-2-fw13-team-37.netlify.app/',
-            repo_link: 'https://github.com/mangeshniras/meesho_fw_13.git',
+                'kohls cash is an American based store which deals in the sale and purchase of clothes shoes etc.',
+            deploy_link: 'https://kohl-s-cash.vercel.app/',
+            repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
             tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },
         {
@@ -45,7 +45,8 @@ const Projects = () => {
                
            
             ],
-        },
+        }
+        ,
         {
             id: 3,
             project_name: 'Weather-App Google map',
@@ -93,16 +94,16 @@ const Projects = () => {
         //     repo_link: 'https://github.com/Mukesh16407/weaterandGoolemap',
         //     tech_stack: [ <FaJs />, <FaHtml5 />, <FaCss3 />],
         // },
-         {
-            id: 6,
-            project_name: 'You-tube Clone',
-            image: 'https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone%20(2).png?raw=true',
-            project_desc:
-                'Its a app look similar to youtube.also add some functionalty similar to youtube using html css js',
-            deploy_link: '',
-            repo_link: 'https://github.com/Ashwininagargoje703/Youtube-clone.git',
-            tech_stack: [<FaJs />, <FaHtml5 />, <FaCss3 />],
-        },
+        //  {
+        //     id: 6,
+        //     project_name: 'You-tube Clone',
+        //     image: 'https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone%20(2).png?raw=true',
+        //     project_desc:
+        //         'Its a app look similar to youtube.also add some functionalty similar to youtube using html css js',
+        //     deploy_link: '',
+        //     repo_link: 'https://github.com/Ashwininagargoje703/Youtube-clone.git',
+        //     tech_stack: [<FaJs />, <FaHtml5 />, <FaCss3 />],
+        // },
     ];
 
     return (

@@ -29,8 +29,8 @@ const footerData = [
     {
         id: 0,
         title: 'Mobile',
-        display: '+91 9356196474',
-        link: 'tel:+919356196474',
+        display: '+919837685032',
+        link: 'tel:+919837685032',
         icon: (
             <FaPhone style={{ color: 'grey' }} className='commonIconsFooter' />
         ),
@@ -38,8 +38,8 @@ const footerData = [
     {
         id: 1,
         title: 'Email',
-        display: 'ashwininagargoje703@gmail.com',
-        link: 'mailto:ashwininagargoje703@gmail.com',
+        display: 'Amirkhan98375@gmail.com',
+        link: 'mailto:Amirkhan98375@gmail.com',
         icon: (
             <SiGmail style={{ color: 'grey' }} className='commonIconsFooter' />
         ),
@@ -48,7 +48,7 @@ const footerData = [
         id: 2,
         title: 'Github',
         display: 'Github',
-        link: 'https://github.com/Ashwininagargoje703',
+        link: 'https://github.com/Amir98375',
         icon: (
             <FaGithub style={{ color: 'grey' }} className='commonIconsFooter' />
         ),
@@ -57,7 +57,7 @@ const footerData = [
         id: 3,
         title: 'LinkedIn',
         display: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/ashwini-nagargoje-259b5122b/',
+        link: 'https://www.linkedin.com/in/mohd-amir-bb9082113/',
         icon: (
             <FaLinkedin
                 style={{ color: 'grey' }}
@@ -81,7 +81,7 @@ const footerData = [
         id: 5,
         title: 'Medium',
         display: 'Medium',
-        link: 'https://medium.com/@ashwininagargoje703',
+        link: '',
         icon: (
             <FaMedium style={{ color: 'grey' }} className='commonIconsFooter' />
         ),

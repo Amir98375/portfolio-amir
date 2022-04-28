@@ -22,11 +22,11 @@ const Projects = () => {
         {
             id: 1,
             project_name: 'Kohls cash clone',
-            image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/meeshoo.png.png?raw=true',
+            image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
             project_desc:
                 'kohls cash is an American based store which deals in the sale and purchase of clothes shoes etc.',
-            deploy_link: 'https://kohl-s-cash.vercel.app/',
-            repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
+            deploy_link: '',
+            repo_link: 'https://github.com/mangeshniras/meesho_fw_13.git',
             tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },
         {

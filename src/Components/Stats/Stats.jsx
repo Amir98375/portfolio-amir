@@ -32,7 +32,7 @@ const Stats = () => {
                 </StatsCont>
             </StatsContCont>
             <img
-                src='https://ghchart.rshah.org/021F34/Mukesh16407'
+                src='https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/git.JPG'
                 alt='fdsdf'
                 style={{ width: '80%', display: 'block', margin: 'auto' }}
             />

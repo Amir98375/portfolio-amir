@@ -31,12 +31,12 @@ const Projects = () => {
         },
         {
             id: 2,
-            project_name: 'TheBowlCompany Clone',
-            image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/TheBowl.png?raw=true',
+            project_name: 'Purple Clone',
+            image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
-                'This is a clone if The Bowl Company Which is about Dishes offered by Swiggys new platform that offers food in a special Bowl.',
-            deploy_link: 'https://the-bowl-company.vercel.app/',
-            repo_link: 'https://github.com/MadhanM282/the-bowl-company',
+                'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of beauty products.',
+            deploy_link: 'https://stirring-speculoos-743377.netlify.app',
+            repo_link: 'https://github.com/Amir98375/purpleclone',
             tech_stack: [
                 <FaHtml5 />,
                 <FaCss3 />,
@@ -50,11 +50,11 @@ const Projects = () => {
         {
             id: 3,
             project_name: 'Weather-App Google map',
-            image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/weather.png?raw=true',
+            image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/weather.JPG',
             project_desc:
                 "A simple App which is used for Seven Day forcasting  weather and location.Also add tempterature and  wind Speed.",
-            deploy_link: 'https://elegant-jones-1248a2.netlify.app/',
-            repo_link: 'https://github.com/Ashwininagargoje703/Weather.git',
+            deploy_link: 'https://weatherseven-ozte7e3pq-amir98375.vercel.app/',
+            repo_link: 'https://github.com/Amir98375/weatherseven',
             tech_stack: [
                 // <SiRedux />,
                 // <SiMaterialui />,
@@ -69,12 +69,12 @@ const Projects = () => {
         },
         {
             id: 4,
-            project_name: 'McDonald-App',
+            project_name: 'News Search bar',
             image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/mc%20donald.png?raw=true',
           project_desc:
-        'A food app here you can search and add foods this page build using html css advace js',
-        deploy_link: 'https://epic-poitras-86ac89.netlify.app/',
-        repo_link: 'https://github.com/Ashwininagargoje703/MCdonals.git',
+        'A news app here you can search news this page build by using html css & advace js',
+        deploy_link: 'https://sad-mahavira-021b7b.netlify.app/',
+        repo_link: 'https://github.com/Amir98375/newsevaluation',
             tech_stack: [
                 // <FaNodeJs />,
                 // <SiMongodb />,

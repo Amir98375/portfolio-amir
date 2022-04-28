@@ -25,7 +25,7 @@ const Projects = () => {
             image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
             project_desc:
                 'kohls cash is an American based store which deals in the sale and purchase of clothes shoes etc.',
-            deploy_link: '',
+            deploy_link: 'https://kohl-s-cash-psz204ich-amir98375.vercel.app/',
             repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
             tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },

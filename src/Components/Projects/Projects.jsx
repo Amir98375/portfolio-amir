@@ -36,7 +36,7 @@ const Projects = () => {
             project_desc:
                 'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of beauty products.',
             deploy_link: 'https://github.com/Amir98375/purpleclone',
-            repo_link: 'https://github.com/Amir98375/purpleclone',
+            repo_link: 'https://bejewelled-taffy-26021a.netlify.app/',
             tech_stack: [
                 <FaHtml5 />,
                 <FaCss3 />,

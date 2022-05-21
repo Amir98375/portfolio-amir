@@ -60,11 +60,10 @@ const Projects = () => {
                 <FaNodeJs />,
                 <SiHeroku/>,
                 <SiRedux />,
-                <SiReact/>,
                 <FaHtml5 />,
                 <FaCss3 />,
                 <FaJs />,
-                <SiMaterialui />,
+                
                
            
             ],

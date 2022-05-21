@@ -46,6 +46,24 @@ const Projects = () => {
                
            
             ],
+        },
+        {
+            id: 2,
+            project_name: 'Purple Clone',
+            image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
+            project_desc:
+                'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of beauty products.',
+            deploy_link: 'https://bejewelled-taffy-26021a.netlify.app/',
+            repo_link: 'https://github.com/Amir98375/purpleclone',
+            tech_stack: [
+                <FaHtml5 />,
+                <FaCss3 />,
+                <FaJs />,
+                <FaNodeJs />,
+                <SiHeroku/>,
+               
+           
+            ],
         }
         ,
         {

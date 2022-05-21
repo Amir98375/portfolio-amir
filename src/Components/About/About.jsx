@@ -42,7 +42,7 @@ const About = () => {
                 <Column>
                     <Img src='https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/images/image2.jpg' alt='my image' />
                 </Column>
-                <Column>.3
+                <Column>
                     <H1>About Me</H1>
                     <AboutInfo>
                         <AboutInfoP>

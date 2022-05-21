@@ -21,7 +21,7 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            project_name: 'Kohls cash clone',
+            project_name: `Kohl's cash clone`,
             image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
             project_desc:
                 'kohls cash is an American based store which deals in the sale and purchase of clothes shoes etc.',
@@ -34,7 +34,7 @@ const Projects = () => {
             project_name: 'Purple Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
-                'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of beauty products.',
+                'This is a clone of Modesens.com an e-commerce american based company which deals in the sale and purchase of beauty products.',
             deploy_link: 'https://bejewelled-taffy-26021a.netlify.app/',
             repo_link: 'https://github.com/Amir98375/purpleclone',
             tech_stack: [
@@ -52,7 +52,7 @@ const Projects = () => {
             project_name: 'Modesens Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
-                'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of beauty products.',
+                'This is a clone of purple.com an e-commerce american based company which deals in the sale purcahse of clothes,shoes etc for men, women and kids.',
             deploy_link: 'https://bejewelled-taffy-26021a.netlify.app/',
             repo_link: 'https://github.com/SumanJK/Modesens-clone-web15',
             tech_stack: [

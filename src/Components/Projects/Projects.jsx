@@ -62,18 +62,9 @@ const Projects = () => {
            
             ],
         },
+    
         {
             id: 3,
-            project_name: `Kohl's cash clone`,
-            image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
-            project_desc:
-                'kohls cash is an American based store which deals in the sale and purchase of clothes shoes for men, women and kids .',
-            deploy_link: 'https://kohl-s-cash-psz204ich-amir98375.vercel.app/',
-            repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
-            tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
-        },
-        {
-            id: 4,
             project_name: 'Purple Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
@@ -90,6 +81,16 @@ const Projects = () => {
                
            
             ],
+        },
+        {
+            id: 4,
+            project_name: `Kohl's cash clone`,
+            image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
+            project_desc:
+                'kohls cash is an American based store which deals in the sale and purchase of clothes shoes for men, women and kids .',
+            deploy_link: 'https://kohl-s-cash-psz204ich-amir98375.vercel.app/',
+            repo_link: 'https://github.com/Hashmat-Noorani/Kohl-s',
+            tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },
       
         

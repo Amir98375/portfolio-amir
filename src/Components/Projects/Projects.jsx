@@ -20,7 +20,7 @@ import { v4 as uuidv4 } from 'uuid';
 const Projects = () => {
     const projects = [
         {
-            id: 1,
+            id: 3,
             project_name: `Kohl's cash clone`,
             image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
             project_desc:

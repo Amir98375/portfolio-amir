@@ -20,6 +20,49 @@ import { v4 as uuidv4 } from 'uuid';
 const Projects = () => {
     const projects = [
         {
+            id: 1,
+            project_name: 'Expedia Clone',
+            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/Screenshot%20(23).png',
+            project_desc:
+                'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flight , cars etc and provide packages for tour. ',
+            deploy_link: 'https://expedia-dummy.vercel.app/',
+            repo_link: 'https://github.com/Amir98375/expediaProject',
+            tech_stack: [
+                 <SiMongodb/>,
+                <FaNodeJs />,
+                <SiHeroku/>,
+                <SiRedux />,
+                <FaReact/>,
+                <FaHtml5 />,
+                <FaCss3 />,
+                <FaJs />,
+                
+               
+           
+            ],
+        },
+        {
+            id: 2,
+            project_name: 'Modesens Clone',
+            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/modesens.JPG',
+            project_desc:
+                'This is a clone of Modesens an e-commerce american based company which deals in sales and purchase of  luxury brands of wearing and products . ',
+            deploy_link: 'https://modesens-web15.vercel.app/',
+            repo_link: 'https://github.com/SumanJK/Modesens-clone-web15',
+            tech_stack: [
+                <SiMongodb/>,
+                <FaNodeJs />,
+                <SiHeroku/>,
+                <SiRedux />,
+                <FaHtml5 />,
+                <FaCss3 />,
+                <FaJs />,
+                
+               
+           
+            ],
+        },
+        {
             id: 3,
             project_name: `Kohl's cash clone`,
             image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
@@ -30,7 +73,7 @@ const Projects = () => {
             tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
         },
         {
-            id: 2,
+            id: 4,
             project_name: 'Purple Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
@@ -43,34 +86,15 @@ const Projects = () => {
                 <FaJs />,
                 <FaNodeJs />,
                 <SiHeroku/>,
+                <SiMongodb/>,
                
            
             ],
         },
+      
+        
         {
-            id: 3,
-            project_name: 'Modesens Clone',
-            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/modesens.JPG',
-            project_desc:
-                'This is a clone of Modesens an e-commerce american based company which deals in sales and purchase of  luxury brands of wearing and products . ',
-            deploy_link: 'https://modesens-web15.vercel.app/',
-            repo_link: 'https://github.com/SumanJK/Modesens-clone-web15',
-            tech_stack: [
-               
-                <FaNodeJs />,
-                <SiHeroku/>,
-                <SiRedux />,
-                <FaHtml5 />,
-                <FaCss3 />,
-                <FaJs />,
-                
-               
-           
-            ],
-        }
-        ,
-        {
-            id: 3,
+            id: 5,
             project_name: 'Weather-App Google map',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/weather.JPG',
             project_desc:
@@ -90,7 +114,7 @@ const Projects = () => {
             ],
         },
         {
-            id: 4,
+            id: 6,
             project_name: 'News Search bar',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/news.JPG',
           project_desc:

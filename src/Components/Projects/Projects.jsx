@@ -24,7 +24,7 @@ const Projects = () => {
             project_name: 'Expedia Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/Screenshot%20(23).png',
             project_desc:
-                'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flight , cars etc and provide packages for tour. ',
+                'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flight nd car etc.  ',
             deploy_link: 'https://expedia-dummy.vercel.app/',
             repo_link: 'https://github.com/Amir98375/expediaProject',
             tech_stack: [

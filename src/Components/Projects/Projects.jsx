@@ -22,7 +22,7 @@ const Projects = () => {
         {
             id: 1,
             project_name: 'Expedia Clone',
-            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/Screenshot%20(23).png',
+            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/imageCloneExpedia.JPG',
             project_desc:
                 'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flight nd car etc.  ',
             deploy_link: 'https://expedia-dummy.vercel.app/',
@@ -118,7 +118,7 @@ const Projects = () => {
             project_name: 'News Search bar',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/news.JPG',
           project_desc:
-        'A news app here you can search news this page build by using html css & advace js',
+        'A news app here you can search news this page build by using html css & advace js and by using Rest APIs',
         deploy_link: 'https://sad-mahavira-021b7b.netlify.app/',
         repo_link: 'https://github.com/Amir98375/newsevaluation',
             tech_stack: [

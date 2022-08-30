@@ -21,10 +21,32 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
+            project_name: 'Apna Store',
+            image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/apna1.JPG',
+            project_desc:
+                'This is an e commerce website which deals in sells and buying books,electroncis,beauty items etc with having features otp login signup with authenitaction add to cart',
+            deploy_link: 'https://apna-store-two.vercel.app/',
+            repo_link: 'https://github.com/Amir98375/ApnaStore',
+            tech_stack: [
+                 <SiMongodb/>,
+                <FaNodeJs />,
+                <SiHeroku/>,
+                <SiRedux />,
+                <FaReact/>,
+                <FaHtml5 />,
+                <FaCss3 />,
+                <FaJs />,
+                
+               
+           
+            ],
+        },
+        {
+            id: 2,
             project_name: 'Expedia Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/imageCloneExpedia.JPG',
             project_desc:
-                'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flight nd car etc.  ',
+                'This is a clone of Expeddia an e-commerce american based company which deals in booking hotels , flights ,bike,and car etc.  ',
             deploy_link: 'https://expedia-dummy.vercel.app/',
             repo_link: 'https://github.com/Amir98375/expediaProject',
             tech_stack: [
@@ -42,7 +64,7 @@ const Projects = () => {
             ],
         },
         {
-            id: 2,
+            id: 3,
             project_name: 'Modesens Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/imagesproject/master/modesens.JPG',
             project_desc:
@@ -64,7 +86,7 @@ const Projects = () => {
         },
     
         {
-            id: 3,
+            id: 4,
             project_name: 'Purple Clone',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/purple.JPG',
             project_desc:
@@ -83,7 +105,7 @@ const Projects = () => {
             ],
         },
         {
-            id: 4,
+            id: 5,
             project_name: `Kohl's cash clone`,
             image: `https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/kohl's.JPG`,
             project_desc:
@@ -95,7 +117,7 @@ const Projects = () => {
       
         
         {
-            id: 5,
+            id: 6,
             project_name: 'Weather-App Google map',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/weather.JPG',
             project_desc:
@@ -115,7 +137,7 @@ const Projects = () => {
             ],
         },
         {
-            id: 6,
+            id: 7,
             project_name: 'News Search bar',
             image: 'https://raw.githubusercontent.com/Amir98375/portfolio-amir/master/public/ProjectImages/news.JPG',
           project_desc:
